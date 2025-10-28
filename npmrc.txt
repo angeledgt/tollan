@@ -1,0 +1,6 @@
+# Permitir scripts de build para sharp (optimización de imágenes Next.js)
+enable-pre-post-scripts=true
+auto-install-peers=true
+
+# Aprobar sharp para ejecutar scripts de instalación
+scripts-prepend-node-path=true
